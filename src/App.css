@@ -19,6 +19,17 @@
   color: white;
 }
 
+.m-button {
+  border: 1px solid blue;
+  background-color: blue;
+  color: white;
+}
+
+.img-pokemon {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 .App-link {
   color: #61dafb;
 }
